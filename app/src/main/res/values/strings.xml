@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">RuntimePermissions-Sample</string>
+
+    <!--GalleryFragment-->
+    <string name="picture_title">Gracias por apoyar al Team Orbis Mobile</string>
+    <string name="picture_description">En el repositorio del Team Orbis Mobile encontrarás las mejores proyectos,
+    desde nivel básico y avanzado, todo orientado a mobiles tanto para Android y iOS.</string>
+    <string name="picture_activate">Activar</string>
+    <string name="title_activity_tab_layout_actvity">TabLayoutActvity</string>
+    <string name="camera_title">Usa la cámara de Orbis Mobile</string>
+    <string name="camera_description">Toma fotos y graba videos con la aplicación de Orbis Mobile.</string>
+    <string name="profile_camera_permission">Abre la configuración, toca \"Permisos\" y activa la \"Cámara\"</string>
+    <string name="profile_storage_permission">Abre la configuración, toca \"Permisos\" y activa \"Almacenamiento\"</string>
+    <string name="profile_open_configuration">Abrir \"Configuración\"</string>
+    <string name="fragment_title_galley">Galería de Imagenes</string>
+    <string name="fragment_title_photo">Toma una foto</string>
+    <!---->
+
+</resources>
